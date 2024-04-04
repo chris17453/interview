@@ -26,7 +26,7 @@ Teained from scratch on NIST dataset, built for production usage.
 
 ## AIJobWars
 Language: Javascript
-Videogame written in Vinala Javascript
+Videogame written in Vanala Javascript. I wanted to write a videogame, and used the process as a learning tool to teach Junior coders.
 - https://github.com/chris17453/aijobwars
 
 ## Pytermwidgets 
