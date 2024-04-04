@@ -19,7 +19,7 @@ Language: Python/Cython
 In use at several major multi-national corps/banks. Responsible for the metadata that builds over 50k servers.
 - https://github.com/chris17453/ddb
 
-## GAN AI Model for handwriten texst
+## GAN AI Model for handwriten text
 Language: Python
 Teained from scratch on NIST dataset, built for production usage.
 - https://github.com/chris17453/cgan-MNIST-refactored.git
