@@ -10,8 +10,8 @@
 | [Homelab Photos](https://github.com/chris17453/homelab){:target="_blank"} | Photos | | Photos of the homelab and office |
 | [Chris Watkins on LinkedIn](https://www.linkedin.com/in/chris17453/){:target="_blank"} | Web | | |
 | [Github](https://github.com/chris17453){:target="_blank"} | Web | | |
-| [ddb Database Engine for Flat Files](https://github.com/watkinslabs/ddb){:target="_blank"} | REPO | C | A refined version of ddb for sql access in a stateless manner on flatfiles. |
-| [ddb Database Engine in Python / Cython](https://github.com/chris17453/ddb){:target="_blank"} | REPO | Python/Cython | A stateless query engine for CSV's featuring full search, columns reording, where group by etc. In use at several major multi-national corporations/banks. Responsible for the metadata that builds over 50k servers. |
+| [ddb ](https://github.com/watkinslabs/ddb){:target="_blank"} | REPO | C | A refined version of ddb for sql access in a stateless manner on flatfiles. |
+| [ddb](https://github.com/chris17453/ddb){:target="_blank"} | REPO | Python/Cython | The original ddb. A stateless query engine for CSV's featuring full search, columns reording, where group by etc. In use at several major multi-national corporations/banks. Responsible for the metadata that builds over 50k servers. |
 | [GAN AI Model for Handwritten Text](https://github.com/chris17453/cgan-MNIST-refactored.git){:target="_blank"} |REPO | Python | Trained from scratch on NIST dataset, built for production usage. |
 | [AIJobWars](https://github.com/chris17453/aijobwars){:target="_blank"} | REPO| Javascript | Videogame written in Vanilla Javascript. A learning tool to teach Junior coders. |
 | [Pytermwidgets](https://github.com/chris17453/py-term-widgets){:target="_blank"} |REPO | Python | Interactive terminal UI components for building rapid applications for the terminal |
