@@ -23,5 +23,5 @@
 | [Desktop Docker](https://github.com/chris17453/desktop-docker){:target="_blank"} | REPO | Docker/ bash | A full Linux distro with RDP setup to run in a container |
 | [Tapeworm](https://github.com/chris17453/tapeworm){:target="_blank"} | REPO | C# | A web API / interface for flat files |
 | [Remote DOS](https://github.com/chris17453/remotedos){:target="_blank"} | REPO | C# | A solution that serves DOS content to users from clustered Windows 2003 instances. This is in production and used by over a dozen companies. |
-| [GE (Graphics Editor)](https://github.com/chris17453/ge){:target="_blank"} | REPO | C | An image editing program I wrote when I was 13, circa 1996 |{:target="_blank"} 
+| [GE (Graphics Editor)](https://github.com/chris17453/ge){:target="_blank"} | REPO | C | A DOS image editing program I wrote when I was 13, circa 1996 |
 | [libSearch](https://github.com/chris17453/libSearch){:target="_blank"} | REPO | C | An insanely fast list search libray in c. Used in a popular virus scanner in the 2000's |
