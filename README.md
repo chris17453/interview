@@ -3,7 +3,7 @@
 ## Videos / Media
 
 ### Video tour of homelab
-- [Watch on YouTube](https://www.youtube.com/watch?v=JJKnIDl8ob0&t=30s){:target="_blank"}
+- [Watch on YouTube](https://www.youtube.com/watch?v=JJKnIDl8ob0){:target="_blank"}
 
 ### Video of how to run multi languages (python and php) on a the same domain
 - [Watch on YouTube](https://www.youtube.com/watch?v=tTli8XvmKPs){:target="_blank"}
@@ -19,6 +19,9 @@
 
 ## LinkedIn
 - [Chris Watkins on LinkedIn](https://www.linkedin.com/in/chris17453/){:target="_blank"}
+
+## Github
+- [Github](https://github.com/chris17453){:target="_blank"}
 
 
 ## CODE 
