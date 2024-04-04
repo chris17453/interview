@@ -3,10 +3,10 @@
 | Link | Category | Language | Description |
 |------|----------|----------|-------------|
 
-| [Watch Video tour of homelab](https://www.youtube.com/watch?v=JJKnIDl8ob0){:target="_blank"} | Video | | A tour of my homelab. |
-| [Watch Video of how to run multi languages](https://www.youtube.com/watch?v=tTli8XvmKPs){:target="_blank"} | Video | | Tutorial on how I serve content from 2 languages and projects with the same domain. (python/php)  |
+| [Watch tour of homelab](https://www.youtube.com/watch?v=JJKnIDl8ob0){:target="_blank"} | Video | | A tour of my homelab. |
+| [Watch Instructional Video](https://www.youtube.com/watch?v=tTli8XvmKPs){:target="_blank"} | Video | | Tutorial on how I serve content from 2 languages and projects with the same domain. (python/php)  |
 | [Watch Timelapse](https://www.youtube.com/watch?v=gtIbHOxGvK4){:target="_blank"} | Video | | An older timelapse of building a MSSQL virtual query system in C#. A dashboarding application. |
-| [homelab Photos](https://github.com/chris17453/homelab){:target="_blank"} | Photos | | Photos of the homelab and office |
+| [Homelab Photos](https://github.com/chris17453/homelab){:target="_blank"} | Photos | | Photos of the homelab and office |
 | [Chris Watkins on LinkedIn](https://www.linkedin.com/in/chris17453/){:target="_blank"} | Web | | |
 | [Github](https://github.com/chris17453){:target="_blank"} | Web | | |
 | [ddb Database Engine for Flat Files](https://github.com/watkinslabs/ddb){:target="_blank"} | REPO | C | A refined version of ddb for sql access in a stateless manner on flatfiles. |
