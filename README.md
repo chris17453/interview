@@ -3,10 +3,10 @@
 |------|----------|----------|-------------|
 | [Watch Video tour of homelab](https://www.youtube.com/watch?v=JJKnIDl8ob0){:target="_blank"} | Video | | |
 | [Watch Video of how to run multi languages](https://www.youtube.com/watch?v=tTli8XvmKPs){:target="_blank"} | Video | | on a the same domain |
-| [Watch Timelapse](https://www.youtube.com/watch?v=gtIbHOxGvK4){:target="_blank"} | Timelapse | | An older timelapse of me building a MSSQL virtual query system in C#. A dashboarding application. |
+| [Watch Timelapse](https://www.youtube.com/watch?v=gtIbHOxGvK4){:target="_blank"} | Video | | An older timelapse of me building a MSSQL virtual query system in C#. A dashboarding application. |
 | [homelab Photos](https://github.com/chris17453/homelab){:target="_blank"} | Photos | | |
-| [Chris Watkins on LinkedIn](https://www.linkedin.com/in/chris17453/){:target="_blank"} | LinkedIn | | |
-| [Github](https://github.com/chris17453){:target="_blank"} | Github | | |
+| [Chris Watkins on LinkedIn](https://www.linkedin.com/in/chris17453/){:target="_blank"} | Web | | |
+| [Github](https://github.com/chris17453){:target="_blank"} | Web | | |
 | [ddb Database Engine for Flat Files](https://github.com/watkinslabs/ddb){:target="_blank"} | Database Engine | C | A refined version of ddb for sql access in a stateless manner on flatfiles. |
 | [ddb Database Engine in Python / Cython](https://github.com/chris17453/ddb){:target="_blank"} | Database Engine | Python/Cython | A stateless query engine for CSV's featuring full search, columns reording, where group by etc. In use at several major multi-national corporations/banks. Responsible for the metadata that builds over 50k servers. |
 | [GAN AI Model for Handwritten Text](https://github.com/chris17453/cgan-MNIST-refactored.git){:target="_blank"} | AI Model | Python | Trained from scratch on NIST dataset, built for production usage. |
