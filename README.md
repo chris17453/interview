@@ -1,5 +1,6 @@
 # To ensure success.. Chris Watkins, for interview reference
-- View this at the github pages. https://chris17453.github.io/interview/ Not formated for GH.
+- View this at the github pages. [Git Hub Page](https://chris17453.github.io/interview/){:target="_blank"} Not formated for GH.
+  
 | Link | Category | Language | Description |
 |------|----------|----------|-------------|
 
