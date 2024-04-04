@@ -6,7 +6,7 @@
 - [Watch on YouTube](https://www.youtube.com/watch?v=JJKnIDl8ob0&t=30s){:target="_blank"}
 
 ### Video of how to run multi languages (python and php) on a the same domain
-- [Watch on YouTube)(https://www.youtube.com/watch?v=tTli8XvmKPs){:target="_blank"}
+- [Watch on YouTube](https://www.youtube.com/watch?v=tTli8XvmKPs){:target="_blank"}
   
 ### Timelapse
 - An older timelapse of me building a MSSQL virtual query system in C#. A dashboarding application.
