@@ -1,6 +1,5 @@
 # interview
-Info about me for interview reference
-
+Personal Pojects by Chris Watkins, for interview reference
 
 
 ## Timelaps 
@@ -11,18 +10,14 @@ Info about me for interview reference
 Where I do most of my work
 - https://github.com/chris17453/homelab
 
-## database engine in C
+## Database engine for flat files, sateless, concurrent, with locking
 Language: C
 - https://github.com/watkinslabs/ddb
 
 ## database engine in python / cython
 Language: Python/Cython
+In use at several major multi-national corps/banks. Responsible for the metadata that builds over 50k servers.
 - https://github.com/chris17453/ddb
-
-
-## Text to animated gif in python/cython (terminal emulator)
-Language: Python
-- https://github.com/chris17453/ttygif
 
 ## GAN AI Model for handwriten texst
 Language: Python
@@ -34,11 +29,6 @@ Language: Javascript
 Videogame written in Vinala Javascript
 - https://github.com/chris17453/aijobwars
 
-## Remote DOS
-Language: C#
-A soloution that serves dos content to users from clustered windows2003 instances. This is in production and used by over a dozen companies.
-- https://github.com/chris17453/remotedos
-
 ## Pytermwidgets 
 Language: Python
 Interactive terminal UI components for building rapid applications for the terminal
@@ -47,6 +37,10 @@ Interactive terminal UI components for building rapid applications for the termi
 ## ESP32PDU
 APC style power uinit with remote control per sockert
 - https://github.com/chris17453/esp32pdu
+
+## Text to animated gif in python/cython (terminal emulator)
+Language: Python
+- https://github.com/chris17453/ttygif
 
 ## Bravo pH Detector
 A program that reads the radio signal of a medical phDetector using a software defined radio
@@ -58,16 +52,20 @@ A full linux distro with RDP setup to run in a container
 Languages: Docker/ bash
 - https://github.com/chris17453/desktop-docker
 
- ## GE (Graphics editor)
- A image edigint program I wrote When I was 13.. circa 1996
- Language: c
- - https://github.com/chris17453/ge
-
 # tapeworm
 A web api / interface for flat files
 Language c#
 - https://github.com/chris17453/tapeworm
+
+## Remote DOS
+Language: C#
+A soloution that serves dos content to users from clustered windows2003 instances. This is in production and used by over a dozen companies.
+- https://github.com/chris17453/remotedos
   
- - 
+ ## GE (Graphics editor)
+ A image edigint program I wrote When I was 13.. circa 1996
+ Language: c
+ - https://github.com/chris17453/ge
+ 
 ## LinkedIn 
 - https://www.linkedin.com/in/chris17453/
