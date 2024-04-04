@@ -17,7 +17,7 @@
 | [Pytermwidgets](https://github.com/chris17453/py-term-widgets){:target="_blank"} |REPO | Python | Interactive terminal UI components for building rapid applications for the terminal |
 | [ESP32PDU](https://github.com/chris17453/esp32pdu){:target="_blank"} | REPO| | APC style power unit with remote control per socket |
 | [ttygif](https://github.com/chris17453/ttygif){:target="_blank"} |REPO | Python | A terminal emulator that renders captured terminal output into a gif, headless. Perfect for automation |
-| [Stegnography](https://github.com/chris17453/php_lsb_encoder/tree/master){:target="_blank"} | REPO | PHP| A cryptologival experiment. Insert data or a file into an image using LSB loss. |
+| [Stegnography](https://github.com/chris17453/php_lsb_encoder/tree/master){:target="_blank"} | REPO | PHP| A cryptological experiment. Insert data or a file into an image using LSB loss. |
 | [Bravo pH Detector](https://github.com/chris17453/bravo_pH){:target="_blank"} | REPO | bash / Python | A data source for radio signal of a medical pH Detector. Software-Defined-Radio |
 | [Desktop Docker](https://github.com/chris17453/desktop-docker){:target="_blank"} | REPO | Docker/ bash | A full Linux distro with RDP setup to run in a container |
 | [Tapeworm](https://github.com/chris17453/tapeworm){:target="_blank"} | REPO | C# | A web API / interface for flat files |
