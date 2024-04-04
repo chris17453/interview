@@ -10,6 +10,7 @@
 | [Homelab Photos](https://github.com/chris17453/homelab){:target="_blank"} | Photos | | Photos of the homelab and office |
 | [LinkedIn](https://www.linkedin.com/in/chris17453/){:target="_blank"} | Web | | |
 | [Github](https://github.com/chris17453){:target="_blank"} | Web | | |
+| [flort](https://github.com/chris175453/flort){:target="_blank"} | REPO | python | A utilty to flaten source repo's into a single file for LLM use. |
 | [ddb ](https://github.com/watkinslabs/ddb){:target="_blank"} | REPO | C | A refined version of ddb for sql access in a stateless manner on flatfiles. |
 | [ddb](https://github.com/chris17453/ddb){:target="_blank"} | REPO | Python/Cython | The original ddb. A stateless query engine for CSV's featuring full search, columns reording, where group by etc. In use at several major multi-national corporations/banks. Responsible for the metadata that builds over 50k servers. |
 | [GAN AI Model for Handwritten Text](https://github.com/chris17453/cgan-MNIST-refactored.git){:target="_blank"} |REPO | Python | Trained from scratch on NIST dataset, built for production usage. |
