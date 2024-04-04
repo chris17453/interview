@@ -1,10 +1,9 @@
 # To ensure success.. Chris Watkins, for interview reference
 - View this at the github pages. [Git Hub Page](https://chris17453.github.io/interview/){:target="_blank"} Not formated for GH.
   
-|------+----------+----------+-------------|
+|---
 | Link | Category | Language | Description |
 |------|:---------|:--------:|------------:|
-
 | [Watch tour of homelab](https://www.youtube.com/watch?v=JJKnIDl8ob0){:target="_blank"} | Video | | A tour of my homelab. |
 | [Watch Instructional Video](https://www.youtube.com/watch?v=tTli8XvmKPs){:target="_blank"} | Video | | Tutorial on how I serve content from 2 languages and projects with the same domain. (python/php)  |
 | [Watch Timelapse](https://www.youtube.com/watch?v=gtIbHOxGvK4){:target="_blank"} | Video | | An older timelapse of building a MSSQL virtual query system in C#. A dashboarding application. |
