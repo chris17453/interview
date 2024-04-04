@@ -1,8 +1,8 @@
 # To ensure success.. Chris Watkins, for interview reference
 | Link | Category | Language | Description |
 |------|----------|----------|-------------|
-| [Watch Video tour of homelab](https://www.youtube.com/watch?v=JJKnIDl8ob0){:target="_blank"} | Video | | Me giving a tour of my homelab. |
-| [Watch Video of how to run multi languages](https://www.youtube.com/watch?v=tTli8XvmKPs){:target="_blank"} | Video | | Tutorial on how i serve content from 2 languages and projects with the samd dokmain. (python/php)  |
+| [Watch Video tour of homelab](https://www.youtube.com/watch?v=JJKnIDl8ob0){:target="_blank"} | Video | | A tour of my homelab. |
+| [Watch Video of how to run multi languages](https://www.youtube.com/watch?v=tTli8XvmKPs){:target="_blank"} | Video | | Tutorial on how i serve content from 2 languages and projects with the same domain. (python/php)  |
 | [Watch Timelapse](https://www.youtube.com/watch?v=gtIbHOxGvK4){:target="_blank"} | Video | | An older timelapse of building a MSSQL virtual query system in C#. A dashboarding application. |
 | [homelab Photos](https://github.com/chris17453/homelab){:target="_blank"} | Photos | | Photos of the homelab and office |
 | [Chris Watkins on LinkedIn](https://www.linkedin.com/in/chris17453/){:target="_blank"} | Web | | |
